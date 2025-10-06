@@ -1,0 +1,15 @@
+{
+  "name": "tp2-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "ms": "node Contenido/ms.js",
+     "mac": "node Contenido/mac.js",
+     "mapts": "node Contenido/mapts.js",
+     "mapaa": "node Contenido/mapaa.js"
+  },
+  "keywords": [],
+  "author": "Beloso Berdun Pedro Miguel",
+  "license": "ISC"
+} 
